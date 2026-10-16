@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.groundedkit/marketing-stats",
+  "title": "GroundedKit Marketing Stats Checker",
+  "description": "Check marketing and influencer stats against primary sources: verdict, source, safe wording.",
+  "version": "1.0.0",
+  "websiteUrl": "https://groundedkit.com/agents/",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://groundedkit.com/mcp"
+    }
+  ]
+}

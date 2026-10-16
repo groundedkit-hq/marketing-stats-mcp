@@ -1,0 +1,2072 @@
+{
+  "schema_version": "1.0",
+  "generated": "2026-10-16",
+  "count": 50,
+  "license": "CC BY 4.0",
+  "source": "https://groundedkit.com/",
+  "claims": [
+    {
+      "schema_version": "1.0",
+      "id": "influencer-marketing-roi-5-78",
+      "slug": "influencer-marketing-roi-5-78",
+      "url": "https://groundedkit.com/claims/influencer-marketing-roi-5-78/",
+      "api_url": "https://groundedkit.com/api/claims/influencer-marketing-roi-5-78.json",
+      "claim": "Influencer marketing returns $5.78 for every $1 spent",
+      "commonly_cited_as": "\"Influencer marketing ROI is $5.78 per $1\" (as revenue or ROI)",
+      "verdict": "misquoted",
+      "verdict_definition": "Primary source found, but the way it is quoted changes the subject, metric, population or precision.",
+      "confidence": "high",
+      "rating": {
+        "value": 2,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Influencer Marketing Hub",
+        "title": "The State of Influencer Marketing 2020: Benchmark Report",
+        "year": "2020 (2019 data)"
+      },
+      "quote": "Average earned media value per $1 spent has increased to $5.78",
+      "method": "Opt-in survey of ~4,000 agencies, brands and industry professionals (45% US; 40% from companies under 10 staff), plus CreatorIQ platform data.",
+      "drift": [
+        "Metric: earned media value (cost of equivalent ad exposure) quoted as revenue/ROI",
+        "Date: 2019 data quoted as current"
+      ],
+      "interest": "Publisher is a media and review site for influencer-marketing platforms.",
+      "safe_rephrasing": "Respondents to Influencer Marketing Hub's 2020 survey reported an average $5.78 in earned media value — not sales — per $1 spent in 2019.",
+      "sources": [
+        {
+          "title": "Influencer Marketing Hub — Benchmark Report 2020",
+          "url": "https://influencermarketinghub.com/influencer-marketing-benchmark-report-2020/",
+          "primary": true
+        },
+        {
+          "title": "Carly — Influencer Marketing Statistics 2026 (secondary trace)",
+          "url": "https://www.usecarly.com/blog/influencer-marketing-statistics/",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "influencer-marketing-6-50-per-dollar",
+      "slug": "influencer-marketing-6-50-per-dollar",
+      "url": "https://groundedkit.com/claims/influencer-marketing-6-50-per-dollar/",
+      "api_url": "https://groundedkit.com/api/claims/influencer-marketing-6-50-per-dollar.json",
+      "claim": "Businesses make $6.50 for every $1 spent on influencer marketing",
+      "commonly_cited_as": "\"Influencer marketing delivers $6.50 ROI\" (as a current benchmark)",
+      "verdict": "outdated",
+      "verdict_definition": "Source found and quoted correctly, but old enough that the market has changed.",
+      "confidence": "high",
+      "rating": {
+        "value": 3,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Tomoson",
+        "title": "Influencer Marketing Study (blog post)",
+        "year": "2015"
+      },
+      "quote": "Tomoson surveyed 125 marketers online from 10–16 March 2015.",
+      "method": "Online poll of 125 marketers; self-reported returns; no method given for the average.",
+      "drift": [
+        "Date: 11-year-old poll quoted as current",
+        "Context: top platforms then were blogs (37%) and Facebook (25%); Instagram, YouTube and Twitter 5–6% each; no TikTok"
+      ],
+      "interest": "Tomoson was an influencer marketplace.",
+      "safe_rephrasing": "In a 2015 poll of 125 marketers by influencer platform Tomoson, respondents self-reported an average $6.50 return per $1.",
+      "sources": [
+        {
+          "title": "Tomoson — Influencer Marketing Study (Internet Archive, 2015)",
+          "url": "https://web.archive.org/web/2015/https://blog.tomoson.com/influencer-marketing-study/",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "email-marketing-roi-36-to-1",
+      "slug": "email-marketing-roi-36-to-1",
+      "url": "https://groundedkit.com/claims/email-marketing-roi-36-to-1/",
+      "api_url": "https://groundedkit.com/api/claims/email-marketing-roi-36-to-1.json",
+      "claim": "Email marketing returns $36 for every $1 spent",
+      "commonly_cited_as": "\"Email ROI is 36:1\" (as measured and current)",
+      "verdict": "outdated",
+      "verdict_definition": "Source found and quoted correctly, but old enough that the market has changed.",
+      "confidence": "high",
+      "rating": {
+        "value": 3,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Litmus",
+        "title": "State of Email Survey 2020",
+        "year": "2020"
+      },
+      "quote": "These insights are derived from Litmus’ 2020 State of Email Survey of more than 2,000 marketing professionals worldwide.",
+      "method": "Survey fielded April 28–June 23, 2020; ROI anonymously self-reported by respondents.",
+      "drift": [
+        "Method: self-reported survey average, not measured ROI",
+        "Date: 2020 data still reused in 2025 materials; the 2025 report gives ranges instead (35% report $10–36, 30% report $36–50)"
+      ],
+      "interest": "Litmus sells email marketing software.",
+      "safe_rephrasing": "Marketers surveyed by Litmus in 2020 self-reported an average email ROI of about 36:1; in 2025, 35% of marketing leaders reported $10–36 per $1.",
+      "sources": [
+        {
+          "title": "Litmus — The ROI of Email Marketing",
+          "url": "https://www.litmus.com/blog/infographic-the-roi-of-email-marketing",
+          "primary": true
+        },
+        {
+          "title": "Litmus — 2020 State of Email Survey announcement (field dates)",
+          "url": "https://www.litmus.com/blog/take-the-2020-state-of-email-survey-and-help-us-give-back-to-the-community",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "92-percent-trust-word-of-mouth-nielsen",
+      "slug": "92-percent-trust-word-of-mouth-nielsen",
+      "url": "https://groundedkit.com/claims/92-percent-trust-word-of-mouth-nielsen/",
+      "api_url": "https://groundedkit.com/api/claims/92-percent-trust-word-of-mouth-nielsen.json",
+      "claim": "92% of consumers trust influencers, UGC or word of mouth more than ads",
+      "commonly_cited_as": "\"92% of consumers trust influencers (or UGC) over ads\" — Nielsen",
+      "verdict": "misquoted",
+      "verdict_definition": "Primary source found, but the way it is quoted changes the subject, metric, population or precision.",
+      "confidence": "high",
+      "rating": {
+        "value": 2,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Nielsen",
+        "title": "Global Trust in Advertising (April 2012)",
+        "year": "2012 (fieldwork 2011)"
+      },
+      "quote": "“recommendations from people I know” scored highest on trust, with 92 percent of consumers trusting this source completely or somewhat.",
+      "method": "Online survey of 28,000+ internet respondents in 56 countries.",
+      "drift": [
+        "Subject: 'people I know' (friends and family) rewritten as influencers or UGC",
+        "Metric: 'completely or somewhat' trust rewritten as 'trust more than ads'",
+        "Population: global online panel quoted as US consumers",
+        "Date: 14 years old"
+      ],
+      "interest": "Nielsen sells advertising measurement.",
+      "safe_rephrasing": "In Nielsen's 2012 global online survey, 92% said they trust recommendations from people they know completely or somewhat; ads on social networks were trusted by 36%.",
+      "sources": [
+        {
+          "title": "Nielsen: Trust in Advertising, Paid, Owned and Earned (2012)",
+          "url": "https://www.nielsen.com/insights/2012/trust-in-advertising-paid-owned-and-earned/",
+          "primary": true
+        },
+        {
+          "title": "MarketingProfs — Earned, Owned Media More Trusted Than Paid (Nielsen 2012 summary)",
+          "url": "https://www.marketingprofs.com/charts/2012/8943/earned-owned-media-more-trusted-than-paid",
+          "primary": false
+        },
+        {
+          "title": "Carly — Influencer Marketing Statistics 2026 (secondary trace)",
+          "url": "https://www.usecarly.com/blog/influencer-marketing-statistics/",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "61-percent-trust-influencers-38-brands",
+      "slug": "61-percent-trust-influencers-38-brands",
+      "url": "https://groundedkit.com/claims/61-percent-trust-influencers-38-brands/",
+      "api_url": "https://groundedkit.com/api/claims/61-percent-trust-influencers-38-brands.json",
+      "claim": "61% of consumers trust influencer recommendations vs 38% for brands",
+      "commonly_cited_as": "\"61% trust influencers, only 38% trust brands\"",
+      "verdict": "misquoted",
+      "verdict_definition": "Primary source found, but the way it is quoted changes the subject, metric, population or precision.",
+      "confidence": "high",
+      "rating": {
+        "value": 2,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Matter Communications",
+        "title": "Matter Survey Reveals Consumers Find Influencers More Helpful and Trustworthy than Brands During the Pandemic",
+        "year": "2020"
+      },
+      "quote": "61% are likely to trust recommendations from a friend, family member or influencer on social platforms.",
+      "method": "1,000 US consumers via a third-party panel, May 2020 (COVID-19 lockdown period).",
+      "drift": [
+        "Subject: influencers were bundled with friends and family in one answer",
+        "Date: pandemic-era sample"
+      ],
+      "interest": "Matter is a PR agency that sells influencer programs.",
+      "safe_rephrasing": "A May 2020 Matter Communications survey of 1,000 US adults found 61% likely to trust recommendations from friends, family or influencers on social, versus 38% from brands.",
+      "sources": [
+        {
+          "title": "Matter Communications — press release, May 26 2020",
+          "url": "https://www.matternow.com/blog/matter-survey-reveals-consumers-find-influencers-more-helpful-and-trustworthy-than-brands-during-the-pandemic/",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "10000-ads-a-day",
+      "slug": "10000-ads-a-day",
+      "url": "https://groundedkit.com/claims/10000-ads-a-day/",
+      "api_url": "https://groundedkit.com/api/claims/10000-ads-a-day.json",
+      "claim": "The average person sees 4,000–10,000 ads a day",
+      "commonly_cited_as": "\"We see up to 10,000 ads a day\"",
+      "verdict": "unsourced",
+      "verdict_definition": "No primary data found; the trail ends in a roundup, a disowned quote or a circular citation.",
+      "confidence": "high",
+      "rating": {
+        "value": 1,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "None — traced to a 2006 CBS interview quote",
+        "title": "No study; disowned by the person credited",
+        "year": "2005–2007 (myth); real counts 1968–2014"
+      },
+      "quote": "\"Our intention was not to endorse any particular number\" — J. Walker Smith to The Drum. The 4A's (2007): \"These numbers are unsubstantiated.\"",
+      "method": "Actual counts: Bauer & Greyser 1968, 76 exposures/day (750 people); 2007 replication, 98.5; Media Dynamics 2014, 362 exposures of which 153 noted.",
+      "drift": [
+        "Number: no study ever measured thousands"
+      ],
+      "interest": "n/a",
+      "safe_rephrasing": "Estimates of daily ad exposure vary widely; counted studies found roughly 76–362 exposures a day, far fewer of them noticed.",
+      "sources": [
+        {
+          "title": "The Drum — How many ads do we really see in a day? (2023)",
+          "url": "https://www.thedrum.com/news/how-many-ads-do-we-really-see-day-spoiler-it-s-not-10000",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "8-second-attention-span-goldfish",
+      "slug": "8-second-attention-span-goldfish",
+      "url": "https://groundedkit.com/claims/8-second-attention-span-goldfish/",
+      "api_url": "https://groundedkit.com/api/claims/8-second-attention-span-goldfish.json",
+      "claim": "Human attention span is 8 seconds, shorter than a goldfish's 9",
+      "commonly_cited_as": "\"Microsoft study: attention spans shorter than a goldfish\"",
+      "verdict": "unsourced",
+      "verdict_definition": "No primary data found; the trail ends in a roundup, a disowned quote or a circular citation.",
+      "confidence": "high",
+      "rating": {
+        "value": 1,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "None — Microsoft Canada (2015) cited the website Statistic Brain",
+        "title": "No traceable data",
+        "year": "2015"
+      },
+      "quote": "the figure that everyone picked up on … did not actually come from Microsoft's research.",
+      "method": "Microsoft surveyed 2,000 Canadians and studied the brain activity of 112 people on other questions; the sources Statistic Brain listed had no record of the research.",
+      "drift": [
+        "Attribution: Microsoft → Statistic Brain → nothing",
+        "Concept: researchers say attention depends on the task, not one average"
+      ],
+      "interest": "The report came from Microsoft's advertising arm.",
+      "safe_rephrasing": "There is no measured 'average attention span'; attention depends on the task and the content (BBC More or Less, 2017).",
+      "sources": [
+        {
+          "title": "BBC — Busting the attention span myth (2017)",
+          "url": "https://www.bbc.com/news/health-38896790",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rule-of-7-marketing",
+      "slug": "rule-of-7-marketing",
+      "url": "https://groundedkit.com/claims/rule-of-7-marketing/",
+      "api_url": "https://groundedkit.com/api/claims/rule-of-7-marketing.json",
+      "claim": "Prospects need 7 touches before they buy (the Rule of 7)",
+      "commonly_cited_as": "\"1930s Hollywood studios found 7 exposures are needed\"",
+      "verdict": "unsourced",
+      "verdict_definition": "No primary data found; the trail ends in a roundup, a disowned quote or a circular citation.",
+      "confidence": "medium",
+      "rating": {
+        "value": 1,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Jeffrey Lant (book, 1990) — rule of thumb, not a study",
+        "title": "No study found for the Hollywood story",
+        "year": "1990"
+      },
+      "quote": "We searched for the Hollywood 'seven posters' research and couldn't find a single source that names the studio, the year or the study.",
+      "method": "Measured advertising research points elsewhere: Krugman (1972) argued 3 exposures; Naples (1979) found 2 exposures within a purchase cycle effective (as summarized by the source). Lant’s book itself was not accessible online, so confidence stays medium.",
+      "drift": [
+        "Lant's rule was about prospects noticing a message within 18 months, not about buying"
+      ],
+      "interest": "n/a",
+      "safe_rephrasing": "The 'Rule of 7' is a rule of thumb; advertising research on effective frequency has proposed 2–3 exposures, and results vary by brand and channel.",
+      "sources": [
+        {
+          "title": "SalesBlog — Myth: the Rule of 7 (2026)",
+          "url": "https://salesblog.co.uk/articles/myth-rule-of-seven/",
+          "primary": false
+        },
+        {
+          "title": "Business Insider (2011): Lant’s Rule of Seven, 7 contacts within 18 months",
+          "url": "https://www.businessinsider.com/how-many-contacts-does-it-take-before-someone-buys-your-product-2011-7",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "video-95-percent-retention",
+      "slug": "video-95-percent-retention",
+      "url": "https://groundedkit.com/claims/video-95-percent-retention/",
+      "api_url": "https://groundedkit.com/api/claims/video-95-percent-retention.json",
+      "claim": "Viewers retain 95% of a message in video vs 10% in text",
+      "commonly_cited_as": "\"Studies show viewers retain 95% of a video message\"",
+      "verdict": "unsourced",
+      "verdict_definition": "No primary data found; the trail ends in a roundup, a disowned quote or a circular citation.",
+      "confidence": "high",
+      "rating": {
+        "value": 1,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Insivia (agency)",
+        "title": "Why Do Viewers Retain 95% of a Video Message, But Only 10% of Text?",
+        "year": "late 2000s"
+      },
+      "quote": "It was directional. It was not a peer-reviewed neuroscience study.",
+      "method": "The originator describes a small, unpublished survey of ~200 B2B buyers; no data or method published.",
+      "drift": [
+        "Precision: a directional pattern became a 'scientific' fact"
+      ],
+      "interest": "Insivia sells marketing services, including video.",
+      "safe_rephrasing": "Don't cite 95%/10%. If needed, say video can improve recall for complex topics, and cite peer-reviewed work on dual coding.",
+      "sources": [
+        {
+          "title": "Insivia — origin explanation",
+          "url": "https://www.insivia.com/why-does-video-convert-better-than-text/",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "5-percent-retention-25-95-percent-profit",
+      "slug": "5-percent-retention-25-95-percent-profit",
+      "url": "https://groundedkit.com/claims/5-percent-retention-25-95-percent-profit/",
+      "api_url": "https://groundedkit.com/api/claims/5-percent-retention-25-95-percent-profit.json",
+      "claim": "A 5% increase in customer retention increases profits by 25–95%",
+      "commonly_cited_as": "\"Bain: +5% retention = +25–95% profit\" (any business)",
+      "verdict": "misquoted",
+      "verdict_definition": "Primary source found, but the way it is quoted changes the subject, metric, population or precision.",
+      "confidence": "high",
+      "rating": {
+        "value": 2,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Reichheld & Schefter, Bain & Company / HBR",
+        "title": "E-Loyalty: Your Secret Weapon on the Web",
+        "year": "2000"
+      },
+      "quote": "By retaining a mere 5% more customers, e-companies can boost profits by 25–95%",
+      "method": "Bain analysis of e-business economics, dot-com era (Reichheld & Schefter, HBR July–Aug 2000). The figure is often credited to the earlier 1990 HBR paper 'Zero Defections' (Reichheld & Sasser), but that paper gives a different range, 25–85%, from a handful of service businesses (85% in one bank's branch system, 50% in an insurance brokerage, 30% in an auto-service chain), for a 5-point cut in the defection rate, and its chart measured customer value (net present value of the average customer's profit stream), not company-wide profit.",
+      "drift": [
+        "Population: e-companies in 2000 → every business today",
+        "Attribution: the 25–95% range comes from the 2000 e-loyalty article; the 1990 'Zero Defections' paper often cited for it says 25–85%",
+        "Metric: the 1990 figures measured value per customer (NPV of the profit stream), widely re-quoted as total company profit",
+        "Date: 26 years old (36 for the 1990 cases)"
+      ],
+      "interest": "Bain sells loyalty consulting (Net Promoter).",
+      "safe_rephrasing": "Bain's Reichheld estimated in 2000 that retaining 5% more customers could lift e-commerce profits by 25–95%; his 1990 HBR cases (bank, insurance, auto service) showed 25–85% gains in customer value. The effect varies by industry, so model it with your own retention and margin data.",
+      "sources": [
+        {
+          "title": "Bain & Company — E-loyalty: Your secret weapon on the web (2000)",
+          "url": "https://www.bain.com/insights/e-loyalty-your-secret-weapon-on-the-web/",
+          "primary": true
+        },
+        {
+          "title": "HBR — Zero Defections: Quality Comes to Services (Reichheld & Sasser, 1990)",
+          "url": "https://hbr.org/1990/09/zero-defections-quality-comes-to-services",
+          "primary": true
+        },
+        {
+          "title": "PubMed — abstract of 'Zero Defections' (HBR 68(5):105–111, 1990)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10107082",
+          "primary": false
+        },
+        {
+          "title": "Coteria — The economics of the returning customer (trace)",
+          "url": "https://getcoteria.com/learn/economics-of-the-returning-customer",
+          "primary": false
+        },
+        {
+          "title": "HBR — The Value of Keeping the Right Customers (2014)",
+          "url": "https://hbr.org/2014/10/the-value-of-keeping-the-right-customers",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "acquisition-costs-5-25x-retention",
+      "slug": "acquisition-costs-5-25x-retention",
+      "url": "https://groundedkit.com/claims/acquisition-costs-5-25x-retention/",
+      "api_url": "https://groundedkit.com/api/claims/acquisition-costs-5-25x-retention.json",
+      "claim": "Acquiring a new customer costs 5–25x more than retaining one",
+      "commonly_cited_as": "\"HBR: acquisition costs 5–25x more than retention\"",
+      "verdict": "unsourced",
+      "verdict_definition": "No primary data found; the trail ends in a roundup, a disowned quote or a circular citation.",
+      "confidence": "high",
+      "rating": {
+        "value": 1,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "None — HBR (2014) cites no specific study",
+        "title": "The Value of Keeping the Right Customers (HBR, Amy Gallo)",
+        "year": "2014"
+      },
+      "quote": "Depending on which study you believe, and what industry you’re in, acquiring a new customer is anywhere from five to 25 times more expensive",
+      "method": "None given; a range across unnamed studies.",
+      "drift": [
+        "Attribution: an HBR blog line quoted as an HBR study"
+      ],
+      "interest": "n/a",
+      "safe_rephrasing": "Acquisition is often more expensive than retention, but the ratio depends on the industry; measure your own CAC against retention cost.",
+      "sources": [
+        {
+          "title": "HBR — The Value of Keeping the Right Customers (2014)",
+          "url": "https://hbr.org/2014/10/the-value-of-keeping-the-right-customers",
+          "primary": true
+        },
+        {
+          "title": "Coteria — trace",
+          "url": "https://getcoteria.com/learn/economics-of-the-returning-customer",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "content-marketing-62-percent-less-3x-leads",
+      "slug": "content-marketing-62-percent-less-3x-leads",
+      "url": "https://groundedkit.com/claims/content-marketing-62-percent-less-3x-leads/",
+      "api_url": "https://groundedkit.com/api/claims/content-marketing-62-percent-less-3x-leads.json",
+      "claim": "Content marketing costs 62% less than traditional marketing and generates 3x as many leads",
+      "commonly_cited_as": "\"Demand Metric study\"",
+      "verdict": "unsourced",
+      "verdict_definition": "No primary data found; the trail ends in a roundup, a disowned quote or a circular citation.",
+      "confidence": "medium",
+      "rating": {
+        "value": 1,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Demand Metric (infographic, not a study)",
+        "title": "Infographic: Content Marketing",
+        "year": "2013"
+      },
+      "quote": "This infographic provides statistics and best practices for content marketing.",
+      "method": "No survey, sample or method; per MarketSplash's audit, the infographic's own source list is mostly other statistics roundups. The Demand Metric page itself (opened) shows no survey or method; the downloadable infographic was not opened (download gated), so confidence stays medium.",
+      "drift": [
+        "Type: an infographic quoted as a study",
+        "Date: 13 years old, quoted in the present tense"
+      ],
+      "interest": "Demand Metric sells marketing advisory services.",
+      "safe_rephrasing": "Don't cite it. Use a current survey with a stated method (e.g. CMI/MarketingProfs annual B2B research) and name its sample.",
+      "sources": [
+        {
+          "title": "Demand Metric — Infographic: Content Marketing",
+          "url": "https://www.demandmetric.com/content/content-marketing-infographic",
+          "primary": true
+        },
+        {
+          "title": "MarketSplash — 75 Content Marketing Statistics Re-Verified (audit)",
+          "url": "https://marketsplash.com/content-marketing-statistics/",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "google-ads-2-dollars-per-dollar",
+      "slug": "google-ads-2-dollars-per-dollar",
+      "url": "https://groundedkit.com/claims/google-ads-2-dollars-per-dollar/",
+      "api_url": "https://groundedkit.com/api/claims/google-ads-2-dollars-per-dollar.json",
+      "claim": "Businesses make $2 (or $8) for every $1 spent on Google Ads",
+      "commonly_cited_as": "\"Google Ads returns $2 / $8 per $1\" (as measured ROI)",
+      "verdict": "misquoted",
+      "verdict_definition": "Primary source found, but the way it is quoted changes the subject, metric, population or precision.",
+      "confidence": "high",
+      "rating": {
+        "value": 2,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Google Economic Impact methodology",
+        "title": "How we calculate Google’s economic impact",
+        "year": "2009 model, still used"
+      },
+      "quote": "we assume that for every $1 businesses spend on Google Ads, they generate an average of $2 in profit.",
+      "method": "An assumption from Hal Varian (AER 2009, based on observed CPC); the $8 figure adds an assumed 5 organic clicks per ad click, valued at 70%.",
+      "drift": [
+        "Type: a seller's modelled assumption quoted as advertiser-measured ROI",
+        "Scope: the $8 includes free organic clicks"
+      ],
+      "interest": "Google sells the ads.",
+      "safe_rephrasing": "Google's economic-impact model assumes $2 in profit per $1 of Google Ads, and $8 when organic search clicks are included.",
+      "sources": [
+        {
+          "title": "Google Economic Impact — Methodology",
+          "url": "https://economicimpact.google/methodology/",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "b2b-buyers-57-percent-before-sales",
+      "slug": "b2b-buyers-57-percent-before-sales",
+      "url": "https://groundedkit.com/claims/b2b-buyers-57-percent-before-sales/",
+      "api_url": "https://groundedkit.com/api/claims/b2b-buyers-57-percent-before-sales.json",
+      "claim": "B2B buyers are 57% through the purchase decision before talking to sales",
+      "commonly_cited_as": "\"Buyers are 57% (or 70%) done before contacting a vendor\" (as current)",
+      "verdict": "outdated",
+      "verdict_definition": "Source found and quoted correctly, but old enough that the market has changed.",
+      "confidence": "high",
+      "rating": {
+        "value": 3,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "CEB Marketing Leadership Council (with Google)",
+        "title": "The Digital Evolution in B2B Marketing",
+        "year": "2012"
+      },
+      "quote": "the average customer had completed 57% of the purchase decision-making process prior to engaging a supplier sales rep directly.",
+      "method": "CEB Marketing Leadership Council Customer Purchase Research Survey, 2011: 1,500+ customer contacts (decision makers and influencers in a recent major purchase) of 22 large B2B suppliers.",
+      "drift": [
+        "Date: 14 years old, quoted as current"
+      ],
+      "interest": "CEB (now Gartner) sells sales and marketing advisory.",
+      "safe_rephrasing": "CEB research from 2012 found B2B buyers were on average 57% through the purchase process before engaging a sales rep.",
+      "sources": [
+        {
+          "title": "CEB/Google: The Digital Evolution in B2B Marketing (2012, PDF)",
+          "url": "https://www.thinkwithgoogle.com/_qs/documents/677/the-digital-evolution-in-b2b-marketing_research-studies.pdf",
+          "primary": true
+        },
+        {
+          "title": "Strategy+Design — quoting CEB 2012",
+          "url": "https://strategydesign.co/how-multi-channel-marketing-enables-dialogue-with-sales/",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "creator-ad-spend-37-billion-2025",
+      "slug": "creator-ad-spend-37-billion-2025",
+      "url": "https://groundedkit.com/claims/creator-ad-spend-37-billion-2025/",
+      "api_url": "https://groundedkit.com/api/claims/creator-ad-spend-37-billion-2025.json",
+      "claim": "US creator economy ad spend reaches $37B in 2025",
+      "commonly_cited_as": "\"Creator ad spend hits $37B, growing 4x faster than media\"",
+      "verdict": "verified",
+      "verdict_definition": "Primary source found; it says the same thing, the scope matches, and it is reasonably current.",
+      "confidence": "high",
+      "rating": {
+        "value": 5,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "IAB",
+        "title": "2025 Creator Economy Ad Spend & Strategy Report",
+        "year": "2025"
+      },
+      "quote": "creator economy ad spend is projected to reach $37 billion in 2025 — a 26% increase year-over-year",
+      "method": "Projection of intentional US brand spend on creators (sponsored, amplified, planned adjacencies); excludes affiliate, subscriptions, tips and merch.",
+      "drift": [
+        "None — but it is a projection; don't mix it with broader 'creator economy' TAM figures"
+      ],
+      "interest": "IAB is the trade body of companies that sell digital ads.",
+      "safe_rephrasing": "IAB projected US brands would spend $37B on creator advertising in 2025, up 26% year over year.",
+      "sources": [
+        {
+          "title": "IAB — press release, Nov 20 2025",
+          "url": "https://www.iab.com/news/creator-economy-ad-spend-to-reach-37-billion-in-2025-growing-4x-faster-than-total-media-industry-according-to-iab/",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "color-increases-brand-recognition-80",
+      "slug": "color-increases-brand-recognition-80",
+      "url": "https://groundedkit.com/claims/color-increases-brand-recognition-80/",
+      "api_url": "https://groundedkit.com/api/claims/color-increases-brand-recognition-80.json",
+      "claim": "Color increases brand recognition by 80%",
+      "commonly_cited_as": "\"University of Loyola study: color increases brand recognition by up to 80%\"",
+      "verdict": "unsourced",
+      "verdict_definition": "No primary data found; the trail ends in a roundup, a disowned quote or a circular citation.",
+      "confidence": "medium",
+      "rating": {
+        "value": 1,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Xerox marketing leaflet (2001/2005), attributed to Loyola University Maryland researchers",
+        "title": "No study containing the figure was found",
+        "year": "2001 (leaflet)"
+      },
+      "quote": "Google couldn't find any paper by dr. Hoadley that had that quote in it.",
+      "method": "None. An investigator traced the line to a Xerox leaflet and contacted the named lead researcher; the papers she supplied do not contain the 80% figure.",
+      "drift": [
+        "Attribution: a printer-maker's sales leaflet quoted as a university study"
+      ],
+      "interest": "Xerox sells color printing.",
+      "safe_rephrasing": "Don't cite a number. If you need evidence on color, cite a named peer-reviewed study and what it measured.",
+      "sources": [
+        {
+          "title": "Insights4Print: the real contents of the 'Loyola study' (2019)",
+          "url": "https://www.insights4print.ceo/2019/02/color-increases-brand-recognition-by-80-the-real-contents-of-the-loyola-study-revealed/",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-100ms-latency-1-percent-sales",
+      "slug": "amazon-100ms-latency-1-percent-sales",
+      "url": "https://groundedkit.com/claims/amazon-100ms-latency-1-percent-sales/",
+      "api_url": "https://groundedkit.com/api/claims/amazon-100ms-latency-1-percent-sales.json",
+      "claim": "Every 100ms of latency cost Amazon 1% of sales",
+      "commonly_cited_as": "\"Amazon found every 100ms of latency costs 1% in sales\"",
+      "verdict": "unsourced",
+      "verdict_definition": "No primary data found; the trail ends in a roundup, a disowned quote or a circular citation.",
+      "confidence": "medium",
+      "rating": {
+        "value": 1,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Greg Linden (ex-Amazon) blog post and slides, 2006, about a pre-2002 A/B test",
+        "title": "No published data",
+        "year": "2006 (anecdote about pre-2002 test)"
+      },
+      "quote": "In A/B tests, we tried delaying the page in increments of 100 milliseconds and found that even very small delays would result in substantial and costly drops in revenue.",
+      "method": "No dataset, sample, test length or significance was published; the '1%' wording comes from a later presentation slide, as traced by the source.",
+      "drift": [
+        "Precision: 'substantial drops' became an exact 1% per 100ms",
+        "Date: 20+ year-old test quoted as current"
+      ],
+      "interest": "n/a",
+      "safe_rephrasing": "An early-2000s internal Amazon A/B test reportedly found small page delays reduced revenue; no data was published.",
+      "sources": [
+        {
+          "title": "Niels-Ole Kühl: Amazon 100ms = 1% revenue? (2018 trace)",
+          "url": "https://niels-ole.com/amazon/performance/2018/10/27/100ms-latency-1percent-revenue.html",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "website-first-impression-50-milliseconds",
+      "slug": "website-first-impression-50-milliseconds",
+      "url": "https://groundedkit.com/claims/website-first-impression-50-milliseconds/",
+      "api_url": "https://groundedkit.com/api/claims/website-first-impression-50-milliseconds.json",
+      "claim": "Users form an opinion about your website in 50 milliseconds (0.05 s)",
+      "commonly_cited_as": "\"You have 0.05 seconds to make a good first impression\"",
+      "verdict": "verified",
+      "verdict_definition": "Primary source found; it says the same thing, the scope matches, and it is reasonably current.",
+      "confidence": "medium",
+      "rating": {
+        "value": 5,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Lindgaard, Fernandes, Dudek & Brown (Carleton University)",
+        "title": "Attention web designers: You have 50 milliseconds to make a good first impression! (Behaviour & Information Technology 25(2))",
+        "year": "2006"
+      },
+      "quote": "Study 3 again replicated the 500 ms condition as well as adding a 50 ms condition using the same stimuli",
+      "method": "Three lab studies; small student samples (e.g. 22 and 31 participants) rated the visual appeal of web homepages shown for 500 ms and 50 ms.",
+      "drift": [
+        "Scope: often stretched from 'visual appeal rating' to trust, credibility or whether users stay"
+      ],
+      "interest": "n/a",
+      "safe_rephrasing": "A 2006 lab study found people's ratings of a homepage's visual appeal after 50 ms were consistent with ratings after longer exposure.",
+      "sources": [
+        {
+          "title": "Lindgaard et al. 2006 (PDF)",
+          "url": "https://www.makinggood.ac.nz/media/1265/lindegaardetal_2006_attention.pdf",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "88-percent-trust-online-reviews",
+      "slug": "88-percent-trust-online-reviews",
+      "url": "https://groundedkit.com/claims/88-percent-trust-online-reviews/",
+      "api_url": "https://groundedkit.com/api/claims/88-percent-trust-online-reviews.json",
+      "claim": "88% of consumers trust online reviews as much as personal recommendations",
+      "commonly_cited_as": "\"88% of consumers trust online reviews as much as personal recommendations\" (as current)",
+      "verdict": "outdated",
+      "verdict_definition": "Source found and quoted correctly, but old enough that the market has changed.",
+      "confidence": "high",
+      "rating": {
+        "value": 3,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "BrightLocal",
+        "title": "Local Consumer Review Survey 2014",
+        "year": "2014"
+      },
+      "quote": "88% of consumers say they trust online reviews as much as personal recommendations (vs. 79% in 2013)",
+      "method": "BrightLocal's own consumer panel: 2,104 responses, 90% US and 10% Canada, May-June 2014.",
+      "drift": [
+        "Date: 12 years old; BrightLocal's later editions report much lower figures (49% in 2026, with changed wording)"
+      ],
+      "interest": "BrightLocal sells local-SEO and review-management software.",
+      "safe_rephrasing": "In BrightLocal's 2014 panel survey, 88% said they trust online reviews as much as personal recommendations; the same company's recent editions report around half.",
+      "sources": [
+        {
+          "title": "BrightLocal: Local Consumer Review Survey 2014",
+          "url": "https://www.brightlocal.com/research/local-consumer-review-survey-2014/",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "4x-more-likely-to-buy-when-referred-nielsen",
+      "slug": "4x-more-likely-to-buy-when-referred-nielsen",
+      "url": "https://groundedkit.com/claims/4x-more-likely-to-buy-when-referred-nielsen/",
+      "api_url": "https://groundedkit.com/api/claims/4x-more-likely-to-buy-when-referred-nielsen.json",
+      "claim": "People are 4x more likely to buy when referred by a friend (Nielsen)",
+      "commonly_cited_as": "\"Customers are 4x more likely to buy when referred by a friend\" — Nielsen",
+      "verdict": "unsourced",
+      "verdict_definition": "No primary data found; the trail ends in a roundup, a disowned quote or a circular citation.",
+      "confidence": "high",
+      "rating": {
+        "value": 1,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "None. The Nielsen release usually cited does not contain it",
+        "title": "Nielsen Global Online Consumer Survey press release (July 2009)",
+        "year": "2009 (cited source)"
+      },
+      "quote": "nine in every ten Internet consumers worldwide (90 percent) trust recommendations from people they know",
+      "method": "The cited Nielsen release is an online survey of 25,000+ internet consumers in 50 countries about trust in ad formats; it reports trust, not purchase likelihood, and has no '4x'.",
+      "drift": [
+        "Attribution: a trust finding rewritten as a purchase multiplier credited to Nielsen"
+      ],
+      "interest": "n/a",
+      "safe_rephrasing": "Don't cite '4x'. Nielsen's 2009 global survey found 90% trust recommendations from people they know.",
+      "sources": [
+        {
+          "title": "Nielsen press release, July 2009 (archived PDF)",
+          "url": "https://web.archive.org/web/2012id_/http://www.nielsen.com/content/dam/corporate/us/en/newswire/uploads/2009/07/pr_global-study_07709.pdf",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "personalized-emails-6x-transaction-rates",
+      "slug": "personalized-emails-6x-transaction-rates",
+      "url": "https://groundedkit.com/claims/personalized-emails-6x-transaction-rates/",
+      "api_url": "https://groundedkit.com/api/claims/personalized-emails-6x-transaction-rates.json",
+      "claim": "Personalized emails deliver 6x higher transaction rates",
+      "commonly_cited_as": "\"Personalized emails deliver 6x higher transaction rates\" (as current)",
+      "verdict": "outdated",
+      "verdict_definition": "Source found and quoted correctly, but old enough that the market has changed.",
+      "confidence": "high",
+      "rating": {
+        "value": 3,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Experian Marketing Services",
+        "title": "2013 Email Market Study (press release, 5 Feb 2014)",
+        "year": "2014 (2013 data)"
+      },
+      "quote": "The study found that personalized emails generate six times higher transaction rates and revenue per email than nonpersonalized email.",
+      "method": "Analysis of email campaigns sent by Experian's clients in 2013; sample size not stated in the release.",
+      "drift": [
+        "Date: 13-year-old campaign data quoted as current"
+      ],
+      "interest": "Experian sold email-marketing services.",
+      "safe_rephrasing": "Experian's 2013 analysis of its clients' emails found personalized emails had six times the transaction rate of non-personalized ones.",
+      "sources": [
+        {
+          "title": "Experian press release (2014)",
+          "url": "https://www.experianplc.com/newsroom/press-releases/2014/experian-marketing-services-study-finds-personalized-emails-generate-six",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "word-of-mouth-13-percent-sales-6-trillion",
+      "slug": "word-of-mouth-13-percent-sales-6-trillion",
+      "url": "https://groundedkit.com/claims/word-of-mouth-13-percent-sales-6-trillion/",
+      "api_url": "https://groundedkit.com/api/claims/word-of-mouth-13-percent-sales-6-trillion.json",
+      "claim": "Word of mouth drives 13% of consumer sales ($6 trillion)",
+      "commonly_cited_as": "\"Word of mouth drives $6 trillion of annual consumer spending\"",
+      "verdict": "outdated",
+      "verdict_definition": "Source found and quoted correctly, but old enough that the market has changed.",
+      "confidence": "medium",
+      "rating": {
+        "value": 3,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Word of Mouth Marketing Association (WOMMA), analysis by Analytic Partners",
+        "title": "Return on Word of Mouth (press release, 18 Nov 2014)",
+        "year": "2014"
+      },
+      "quote": "online and offline consumer conversations and recommendations account for 13% of consumer sales, on average, which represents $6 trillion in annual consumer spending.",
+      "method": "Econometric modeling of confidential sales data from sponsoring brands in six categories; the $6 trillion extrapolates the 13% average to all US consumer spending.",
+      "drift": [
+        "Scope: an average across a few sponsor brands extrapolated to the whole economy",
+        "Date: 12 years old"
+      ],
+      "interest": "Funded by brand and agency sponsors; WOMMA is a word-of-mouth trade body.",
+      "safe_rephrasing": "A 2014 WOMMA-sponsored model of six categories estimated word of mouth drove about 13% of sales for participating brands.",
+      "sources": [
+        {
+          "title": "PR Newswire: WOMMA study release (2014)",
+          "url": "https://www.prnewswire.com/news-releases/landmark-study-shows-word-of-mouth-drives-13-of-consumer-sales-283040971.html",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "71-percent-more-likely-social-referrals",
+      "slug": "71-percent-more-likely-social-referrals",
+      "url": "https://groundedkit.com/claims/71-percent-more-likely-social-referrals/",
+      "api_url": "https://groundedkit.com/api/claims/71-percent-more-likely-social-referrals.json",
+      "claim": "Consumers are 71% more likely to purchase based on social media referrals",
+      "commonly_cited_as": "\"HubSpot: 71% more likely to purchase based on social media referrals\"",
+      "verdict": "unsourced",
+      "verdict_definition": "No primary data found; the trail ends in a roundup, a disowned quote or a circular citation.",
+      "confidence": "medium",
+      "rating": {
+        "value": 1,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "HubSpot infographic (c. 2013), no study named",
+        "title": "71% More Likely to Purchase Based on Social Media Referrals [Infographic]",
+        "year": "c. 2013"
+      },
+      "quote": "No quote available: the original HubSpot URL now redirects to an unrelated article.",
+      "method": "None found: the infographic names no survey, sample or method, and the original page no longer shows it.",
+      "drift": [
+        "Meaning: '71% more likely' is undefined (more likely than what?)",
+        "Later restated as '71% of users are more likely to buy based on influencer recommendations'"
+      ],
+      "interest": "HubSpot sells marketing software.",
+      "safe_rephrasing": "Don't cite it; use a current survey with a stated sample.",
+      "sources": [
+        {
+          "title": "HubSpot original infographic URL (now redirects)",
+          "url": "https://blog.hubspot.com/blog/tabid/6307/bid/30239/71-more-likely-to-purchase-based-on-social-media-referrals-infographic.aspx",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "millennials-trust-ugc-50-percent-more",
+      "slug": "millennials-trust-ugc-50-percent-more",
+      "url": "https://groundedkit.com/claims/millennials-trust-ugc-50-percent-more/",
+      "api_url": "https://groundedkit.com/api/claims/millennials-trust-ugc-50-percent-more.json",
+      "claim": "Millennials trust user-generated content 50% more than other media",
+      "commonly_cited_as": "\"Millennials trust UGC 50% more than traditional media\" (as current)",
+      "verdict": "outdated",
+      "verdict_definition": "Source found and quoted correctly, but old enough that the market has changed.",
+      "confidence": "medium",
+      "rating": {
+        "value": 3,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Crowdtap with Ipsos MediaCT",
+        "title": "Social Influence: Marketing's New Frontier (as reported by Adweek)",
+        "year": "2014"
+      },
+      "quote": "A study by Crowdtap and Ipsos Media CT found that this generation is most influenced by user-generated content (UGC).",
+      "method": "Online survey of 839 US millennials (18-36), as reported by secondary sources.",
+      "drift": [
+        "Date: 12 years old; today's 'millennials' are 30-45"
+      ],
+      "interest": "Crowdtap sold UGC and influencer campaigns.",
+      "safe_rephrasing": "A 2014 survey by UGC firm Crowdtap with Ipsos found millennials rated user-generated content as more trusted than other media.",
+      "sources": [
+        {
+          "title": "Adweek: Millennials Trust UGC 50% More (2014)",
+          "url": "https://www.adweek.com/performance-marketing/millennials-trust-user-generated-content-50-traditional-media-infographic/",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "visuals-processed-60000-times-faster",
+      "slug": "visuals-processed-60000-times-faster",
+      "url": "https://groundedkit.com/claims/visuals-processed-60000-times-faster/",
+      "api_url": "https://groundedkit.com/api/claims/visuals-processed-60000-times-faster.json",
+      "claim": "The brain processes visuals 60,000 times faster than text",
+      "commonly_cited_as": "\"3M research: visuals are processed 60,000x faster than text\"",
+      "verdict": "unsourced",
+      "verdict_definition": "No primary data found; the trail ends in a roundup, a disowned quote or a circular citation.",
+      "confidence": "high",
+      "rating": {
+        "value": 1,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "3M sales brochure (2001) and a 1998 3M presentation",
+        "title": "No study found",
+        "year": "2001 (brochure)"
+      },
+      "quote": "the 2001 3M document you get is not a research summary, not product of their R&D, but a sales brochure",
+      "method": "None. Repeated tracing finds only 3M marketing material without data.",
+      "drift": [
+        "Attribution: a projector-maker's brochure quoted as 3M research"
+      ],
+      "interest": "3M sold overhead projectors.",
+      "safe_rephrasing": "Don't cite it. Images can be understood quickly, but no study supports '60,000 times'.",
+      "sources": [
+        {
+          "title": "CogDogBlog: 60,000 times, truthiness achieved (2014)",
+          "url": "https://cogdogblog.com/2014/04/60000-times-truthiness/",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "80-percent-sales-5-follow-ups",
+      "slug": "80-percent-sales-5-follow-ups",
+      "url": "https://groundedkit.com/claims/80-percent-sales-5-follow-ups/",
+      "api_url": "https://groundedkit.com/api/claims/80-percent-sales-5-follow-ups.json",
+      "claim": "80% of sales require 5 follow-ups",
+      "commonly_cited_as": "\"80% of sales require 5 follow-up calls\" (National Sales Executive Association)",
+      "verdict": "misquoted",
+      "verdict_definition": "Primary source found, but the way it is quoted changes the subject, metric, population or precision.",
+      "confidence": "high",
+      "rating": {
+        "value": 2,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Long Island chapter of the National Sales Executives Association (now SMEI)",
+        "title": "Member survey",
+        "year": "1942"
+      },
+      "quote": "80% of sales are made on the fifth to twelfth contact",
+      "method": "A 1942 survey of chapter members; SMEI says the sample was under 40.",
+      "drift": [
+        "Metric: 'fifth to twelfth contact' became 'five follow-ups'",
+        "Date: 84 years old, quoted as current",
+        "Sample: under 40 salespeople"
+      ],
+      "interest": "SMEI sells sales training and certification.",
+      "safe_rephrasing": "A 1942 survey of fewer than 40 sales executives reported most sales closing after several contacts; it is not modern evidence.",
+      "sources": [
+        {
+          "title": "SMEI: Sales Statistics (archive research)",
+          "url": "https://smei.org/sales-statistics/",
+          "primary": true
+        },
+        {
+          "title": "Automation Experience: the follow-up statistic its author deleted (2026)",
+          "url": "https://automationexperience.net/blog/the-follow-up-statistic-its-own-author-deleted/",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sms-98-percent-open-rate",
+      "slug": "sms-98-percent-open-rate",
+      "url": "https://groundedkit.com/claims/sms-98-percent-open-rate/",
+      "api_url": "https://groundedkit.com/api/claims/sms-98-percent-open-rate.json",
+      "claim": "Text messages have a 98% open rate",
+      "commonly_cited_as": "\"SMS has a 98% open rate (vs 20% for email)\"",
+      "verdict": "outdated",
+      "verdict_definition": "Source found and quoted correctly, but old enough that the market has changed.",
+      "confidence": "high",
+      "rating": {
+        "value": 3,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Mobilesquared (for SinglePoint)",
+        "title": "Conversational Advertising (white paper)",
+        "year": "2010"
+      },
+      "quote": "neither datapoints represent an accurate reflection of today's world of mobile messaging.",
+      "method": "2010 white paper; the author firm said in 2022 that its latest data suggests 55% of SMS are read and 100% are viewed. SMS has no standard open tracking.",
+      "drift": [
+        "Metric: a 'read' estimate quoted as a measured open rate",
+        "Date: the publisher itself withdrew it as current"
+      ],
+      "interest": "Commissioned by an SMS-messaging vendor.",
+      "safe_rephrasing": "Mobilesquared's 2010 estimate of 98% SMS read rates is withdrawn by its author; its 2022 data suggests about 55% are read.",
+      "sources": [
+        {
+          "title": "Mobilesquared: SMS engagement rates dropping (2022)",
+          "url": "https://www.mobilesquared.co.uk/2022/08/24/sms-engagement-dropping-still-outperforms-other-channels/",
+          "primary": true
+        },
+        {
+          "title": "Mobilesquared: Conversational Advertising (2010, PDF)",
+          "url": "https://tnz.com.au/assets/downloads/MobileSQUARED%20-%20Conversational%20Advertising.pdf",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "mehrabian-7-38-55-rule",
+      "slug": "mehrabian-7-38-55-rule",
+      "url": "https://groundedkit.com/claims/mehrabian-7-38-55-rule/",
+      "api_url": "https://groundedkit.com/api/claims/mehrabian-7-38-55-rule.json",
+      "claim": "Only 7% of communication is words (7-38-55 rule)",
+      "commonly_cited_as": "\"93% of communication is nonverbal\"",
+      "verdict": "misquoted",
+      "verdict_definition": "Primary source found, but the way it is quoted changes the subject, metric, population or precision.",
+      "confidence": "high",
+      "rating": {
+        "value": 2,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Albert Mehrabian (UCLA)",
+        "title": "Mehrabian & Wiener 1967; Mehrabian & Ferris 1967; Silent Messages (1971/1981)",
+        "year": "1967"
+      },
+      "quote": "was actually concerned with feelings and attitudes",
+      "method": "Small lab studies in which listeners judged a speaker's feelings from single words with inconsistent tone or facial expression.",
+      "drift": [
+        "Scope: findings about judging feelings from inconsistent cues generalized to all communication"
+      ],
+      "interest": "n/a",
+      "safe_rephrasing": "Mehrabian's 1960s experiments concern how people judge feelings when words and tone conflict; he says the ratios don't apply to communication in general.",
+      "sources": [
+        {
+          "title": "Max Atkinson: Mehrabian's moans about the myth (2009, quoting Mehrabian)",
+          "url": "https://maxatkinson.blogspot.com/2009/08/mehrabians-moans-about-myth.html",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "75-percent-never-scroll-past-page-one",
+      "slug": "75-percent-never-scroll-past-page-one",
+      "url": "https://groundedkit.com/claims/75-percent-never-scroll-past-page-one/",
+      "api_url": "https://groundedkit.com/api/claims/75-percent-never-scroll-past-page-one.json",
+      "claim": "75% of users never scroll past the first page of search results",
+      "commonly_cited_as": "\"75% of users never scroll past the first page of Google\" — HubSpot",
+      "verdict": "unsourced",
+      "verdict_definition": "No primary data found; the trail ends in a roundup, a disowned quote or a circular citation.",
+      "confidence": "medium",
+      "rating": {
+        "value": 1,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "HubSpot slide deck (2010) citing marketshare.hitslink.com",
+        "title": "120 Awesome Marketing Stats, Charts and Graphs",
+        "year": "2010"
+      },
+      "quote": "That underlying source is a dead link.",
+      "method": "None: the cited source is unreachable and no controlled study was found by the auditing source.",
+      "drift": [
+        "Attribution: a stat-deck line credited to HubSpot research"
+      ],
+      "interest": "HubSpot sells SEO/inbound software.",
+      "safe_rephrasing": "Don't cite 75%. Use a dated click-through study and name its data source.",
+      "sources": [
+        {
+          "title": "SERPs.io: We fact-checked the 10 most-quoted SEO statistics",
+          "url": "https://serps.io/blog/seo-zombie-statistics-fact-check",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "53-percent-mobile-abandon-3-seconds",
+      "slug": "53-percent-mobile-abandon-3-seconds",
+      "url": "https://groundedkit.com/claims/53-percent-mobile-abandon-3-seconds/",
+      "api_url": "https://groundedkit.com/api/claims/53-percent-mobile-abandon-3-seconds.json",
+      "claim": "53% of mobile users abandon a site that takes over 3 seconds to load",
+      "commonly_cited_as": "\"53% of mobile visitors leave if a page takes longer than 3 seconds\" (as current)",
+      "verdict": "outdated",
+      "verdict_definition": "Source found and quoted correctly, but old enough that the market has changed.",
+      "confidence": "high",
+      "rating": {
+        "value": 3,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Google / DoubleClick",
+        "title": "The need for mobile speed",
+        "year": "2016 (March 2016 data)"
+      },
+      "quote": "53% of visits are likely to be abandoned if pages take longer than 3 seconds to load",
+      "method": "Aggregated, anonymized Google Analytics data from about 3,700 opted-in mobile sites, March 2016, many on 3G.",
+      "drift": [
+        "Wording: 'likely to be abandoned' (modeled) quoted as measured",
+        "Date: 10-year-old 3G-era data"
+      ],
+      "interest": "Google sells ads and promoted its AMP format at the time.",
+      "safe_rephrasing": "Google's 2016 analysis of ~3,700 mobile sites estimated 53% of visits are likely abandoned when pages take over 3 seconds.",
+      "sources": [
+        {
+          "title": "Google: The need for mobile speed (2016)",
+          "url": "https://blog.google/products/admanager/the-need-for-mobile-speed/",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "89-percent-compete-on-customer-experience",
+      "slug": "89-percent-compete-on-customer-experience",
+      "url": "https://groundedkit.com/claims/89-percent-compete-on-customer-experience/",
+      "api_url": "https://groundedkit.com/api/claims/89-percent-compete-on-customer-experience.json",
+      "claim": "89% of companies compete primarily on customer experience (Gartner)",
+      "commonly_cited_as": "\"89% of businesses compete primarily on customer experience\"",
+      "verdict": "misquoted",
+      "verdict_definition": "Primary source found, but the way it is quoted changes the subject, metric, population or precision.",
+      "confidence": "medium",
+      "rating": {
+        "value": 2,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Gartner",
+        "title": "Customer experience survey (2014)",
+        "year": "2014"
+      },
+      "quote": "89% of companies expect to compete primarily on the basis of customer experience",
+      "method": "Gartner survey of marketing leaders; the original is paywalled and was not opened (secondary quote only).",
+      "drift": [
+        "Tense: an expectation ('expect to compete', for 2016) quoted as fact"
+      ],
+      "interest": "Gartner sells research and advisory.",
+      "safe_rephrasing": "In a 2014 Gartner survey, 89% of companies said they expected to compete mainly on customer experience.",
+      "sources": [
+        {
+          "title": "SERVSIG: Customer experience, two shortcomings (2016, quoting Gartner 2014)",
+          "url": "https://www.servsig.org/wordpress/2016/03/customer-experience-two-shortcomings-and-exciting-opportunities/",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "49-percent-rely-on-influencer-recommendations",
+      "slug": "49-percent-rely-on-influencer-recommendations",
+      "url": "https://groundedkit.com/claims/49-percent-rely-on-influencer-recommendations/",
+      "api_url": "https://groundedkit.com/api/claims/49-percent-rely-on-influencer-recommendations.json",
+      "claim": "49% of consumers depend on influencer recommendations",
+      "commonly_cited_as": "\"49% of consumers rely on influencer recommendations\" (as US consumers today)",
+      "verdict": "outdated",
+      "verdict_definition": "Source found and quoted correctly, but old enough that the market has changed.",
+      "confidence": "medium",
+      "rating": {
+        "value": 3,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Twitter with Annalect",
+        "title": "Twitter influencer study (2016)",
+        "year": "2016"
+      },
+      "quote": "Almost half of the respondents (49 percent) in the survey rely on influencers for product recommen[dations]",
+      "method": "Survey of Twitter users, as reported by secondary coverage; 56% relied on friends.",
+      "drift": [
+        "Population: Twitter users quoted as all consumers",
+        "Date: 10 years old"
+      ],
+      "interest": "Twitter sells influencer and ad products.",
+      "safe_rephrasing": "In a 2016 Twitter/Annalect survey of Twitter users, 49% said they rely on influencers for product recommendations.",
+      "sources": [
+        {
+          "title": "ION: Twitter report on influencers (2016)",
+          "url": "https://www.ion.co/twitter-has-released-a-report-showing-consumers-seek-product-recommendations-from-influencers-almost-as-much-as-they-do-from-friends",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "70-percent-teens-trust-youtubers-over-celebrities",
+      "slug": "70-percent-teens-trust-youtubers-over-celebrities",
+      "url": "https://groundedkit.com/claims/70-percent-teens-trust-youtubers-over-celebrities/",
+      "api_url": "https://groundedkit.com/api/claims/70-percent-teens-trust-youtubers-over-celebrities.json",
+      "claim": "70% of teens trust YouTubers more than traditional celebrities",
+      "commonly_cited_as": "\"70% of teenagers trust influencers more than celebrities\"",
+      "verdict": "misquoted",
+      "verdict_definition": "Primary source found, but the way it is quoted changes the subject, metric, population or precision.",
+      "confidence": "high",
+      "rating": {
+        "value": 2,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Google (Ipsos Connect, Google-commissioned)",
+        "title": "The YouTube Generation Study (Think with Google)",
+        "year": "2015 (Nov 2015 fieldwork)"
+      },
+      "quote": "teen YouTube channel subscribers who agreed that YouTube creators are “more like one of us” than traditional celebrities, n=433, Nov. 2015.",
+      "method": "US teen YouTube channel subscribers, n=433, Google-commissioned.",
+      "drift": [
+        "Metric: 'relate to / more like one of us' became 'trust'",
+        "Population: teen YouTube subscribers became all teens",
+        "Date: 11 years old"
+      ],
+      "interest": "Google owns YouTube.",
+      "safe_rephrasing": "In a 2015 Google-commissioned survey of 433 US teen YouTube subscribers, 70% said they relate to YouTube creators more than to traditional celebrities.",
+      "sources": [
+        {
+          "title": "Think with Google: YouTube stars' influence (PDF)",
+          "url": "https://www.thinkwithgoogle.com/_qs/documents/604/youtube-stars-influence-b.pdf",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "80-percent-buy-personalized-experiences-epsilon",
+      "slug": "80-percent-buy-personalized-experiences-epsilon",
+      "url": "https://groundedkit.com/claims/80-percent-buy-personalized-experiences-epsilon/",
+      "api_url": "https://groundedkit.com/api/claims/80-percent-buy-personalized-experiences-epsilon.json",
+      "claim": "80% of consumers are more likely to buy when brands offer personalized experiences",
+      "commonly_cited_as": "\"80% of consumers are more likely to buy from brands that personalize\" (as current)",
+      "verdict": "outdated",
+      "verdict_definition": "Source found and quoted correctly, but old enough that the market has changed.",
+      "confidence": "high",
+      "rating": {
+        "value": 3,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Epsilon (with GBH Insights)",
+        "title": "The power of me: The impact of personalization on marketing performance (press release, 9 Jan 2018)",
+        "year": "2018 (2017 survey)"
+      },
+      "quote": "80% of respondents indicating they are more likely to do business with a com[pany if it offers personalized experiences]",
+      "method": "2017 online survey of 1,000 US consumers aged 18-64; stated intent, not observed behavior.",
+      "drift": [
+        "Metric: stated intent quoted as purchase behavior",
+        "Date: 9 years old"
+      ],
+      "interest": "Epsilon sells personalization and data services.",
+      "safe_rephrasing": "In Epsilon's 2017 survey of 1,000 US consumers, 80% said they're more likely to do business with a company offering personalized experiences.",
+      "sources": [
+        {
+          "title": "Epsilon press release (2018)",
+          "url": "https://www.epsilon.com/us/about-us/pressroom/new-epsilon-research-indicates-80-of-consumers-are-more-likely-to-make-a-purchase-when-brands-offer-personalized-experiences",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "people-remember-10-percent-read-20-percent-hear",
+      "slug": "people-remember-10-percent-read-20-percent-hear",
+      "url": "https://groundedkit.com/claims/people-remember-10-percent-read-20-percent-hear/",
+      "api_url": "https://groundedkit.com/api/claims/people-remember-10-percent-read-20-percent-hear.json",
+      "claim": "People remember 10% of what they read, 20% of what they hear…",
+      "commonly_cited_as": "\"Dale's Cone: we remember 10% of what we read, 90% of what we do\"",
+      "verdict": "unsourced",
+      "verdict_definition": "No primary data found; the trail ends in a roundup, a disowned quote or a circular citation.",
+      "confidence": "high",
+      "rating": {
+        "value": 1,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "D. G. Treichler (Mobil Oil employee), Film and Audio-Visual Communications magazine",
+        "title": "No research cited",
+        "year": "1967"
+      },
+      "quote": "D. G. Treichler didn't cite any research",
+      "method": "None. Edgar Dale's Cone of Experience contains no percentages; the numbers were later grafted onto it.",
+      "drift": [
+        "Attribution: numbers from a trade-magazine article credited to Dale or to 'research'"
+      ],
+      "interest": "n/a",
+      "safe_rephrasing": "Don't cite these percentages; Dale's cone has no numbers and no research supports them.",
+      "sources": [
+        {
+          "title": "Work-Learning Research: People remember 10%, 20%... Oh really? (2006)",
+          "url": "https://www.worklearning.com/2006/05/01/people_remember/",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "inbound-leads-cost-61-percent-less",
+      "slug": "inbound-leads-cost-61-percent-less",
+      "url": "https://groundedkit.com/claims/inbound-leads-cost-61-percent-less/",
+      "api_url": "https://groundedkit.com/api/claims/inbound-leads-cost-61-percent-less.json",
+      "claim": "Inbound leads cost 61% less than outbound leads",
+      "commonly_cited_as": "\"Inbound leads cost 61% less than outbound\" (as current)",
+      "verdict": "outdated",
+      "verdict_definition": "Source found and quoted correctly, but old enough that the market has changed.",
+      "confidence": "high",
+      "rating": {
+        "value": 3,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "HubSpot",
+        "title": "State of Inbound Marketing (2012; earlier editions 2009-2011)",
+        "year": "2012 (Jan 2012 survey)"
+      },
+      "quote": "the 2009 survey showed that inbound marketing dominated organizations experienced a 61% lower cost per lead",
+      "method": "Self-reported surveys of marketers (2011 edition: 644 professionals; 2012 edition: 972, per an audit).",
+      "drift": [
+        "Date: 14+ years old",
+        "Self-reported cost per lead from a vendor's audience"
+      ],
+      "interest": "HubSpot sells inbound-marketing software.",
+      "safe_rephrasing": "HubSpot's 2009-2012 surveys of marketers reported roughly 60% lower cost per lead for inbound-dominated companies.",
+      "sources": [
+        {
+          "title": "HubSpot: Inbound leads cost 62% less (2011 report post)",
+          "url": "https://blog.hubspot.com/blog/tabid/6307/bid/10172/inbound-leads-cost-62-less-than-outbound-new-data.aspx",
+          "primary": true
+        },
+        {
+          "title": "ProfileTree: inbound statistics audit",
+          "url": "https://profiletree.com/inbound-marketing-statistics/",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "companies-that-blog-55-percent-more-visitors",
+      "slug": "companies-that-blog-55-percent-more-visitors",
+      "url": "https://groundedkit.com/claims/companies-that-blog-55-percent-more-visitors/",
+      "api_url": "https://groundedkit.com/api/claims/companies-that-blog-55-percent-more-visitors.json",
+      "claim": "Companies that blog get 55% more website visitors",
+      "commonly_cited_as": "\"Companies that blog get 55% more visitors, 97% more links, 434% more indexed pages\"",
+      "verdict": "outdated",
+      "verdict_definition": "Source found and quoted correctly, but old enough that the market has changed.",
+      "confidence": "medium",
+      "rating": {
+        "value": 3,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "HubSpot",
+        "title": "Analysis of HubSpot customers' websites (reported Aug 2009)",
+        "year": "2009"
+      },
+      "quote": "that's the average increase in visitors to small business websites as a result of blogging, according to the study.",
+      "method": "Comparison of HubSpot small-business customers with and without blogs (correlation, not an experiment).",
+      "drift": [
+        "Causality: a correlation among one vendor's customers quoted as an effect",
+        "Date: 17 years old"
+      ],
+      "interest": "HubSpot sells blogging software.",
+      "safe_rephrasing": "A 2009 HubSpot comparison of its small-business customers found those with blogs averaged 55% more visitors.",
+      "sources": [
+        {
+          "title": "Search Engine Watch: HubSpot blogging study (2009)",
+          "url": "https://searchenginewatch.com/2009/08/24/blogs-increase-traffic-links-and-indexing-according-to-hubspot-study/",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "video-landing-page-80-percent-conversions",
+      "slug": "video-landing-page-80-percent-conversions",
+      "url": "https://groundedkit.com/claims/video-landing-page-80-percent-conversions/",
+      "api_url": "https://groundedkit.com/api/claims/video-landing-page-80-percent-conversions.json",
+      "claim": "Video on a landing page increases conversions by 80%",
+      "commonly_cited_as": "\"Adding video to a landing page increases conversion by 80%\"",
+      "verdict": "unsourced",
+      "verdict_definition": "No primary data found; the trail ends in a roundup, a disowned quote or a circular citation.",
+      "confidence": "medium",
+      "rating": {
+        "value": 1,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Attributed to an EyeView case study; no data published",
+        "title": "No study found",
+        "year": "c. 2013"
+      },
+      "quote": "Videos do not boost your landing page conversion rates—and in some cases, might even harm them.",
+      "method": "No published method for the 80% figure; Unbounce's own analysis of its landing-page data contradicts the blanket claim.",
+      "drift": [
+        "Scope: one vendor case study turned into a universal rule"
+      ],
+      "interest": "EyeView sold video ads.",
+      "safe_rephrasing": "Don't cite 80%. Unbounce's analysis of its landing-page data found video did not raise conversion rates on average.",
+      "sources": [
+        {
+          "title": "Unbounce: Video on landing pages (analysis)",
+          "url": "https://unbounce.com/landing-pages/video-on-landing-pages-means-more-conversions-right-wrong-heres-why/",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "93-percent-online-experiences-begin-search",
+      "slug": "93-percent-online-experiences-begin-search",
+      "url": "https://groundedkit.com/claims/93-percent-online-experiences-begin-search/",
+      "api_url": "https://groundedkit.com/api/claims/93-percent-online-experiences-begin-search.json",
+      "claim": "93% of online experiences begin with a search engine",
+      "commonly_cited_as": "\"93% of online experiences begin with a search engine\"",
+      "verdict": "unsourced",
+      "verdict_definition": "No primary data found; the trail ends in a roundup, a disowned quote or a circular citation.",
+      "confidence": "medium",
+      "rating": {
+        "value": 1,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Attributed to 'Forrester 2006' or imForza; no report found",
+        "title": "No study found",
+        "year": "2006 (claimed)"
+      },
+      "quote": "A study by Forrester from 2006 found that 93% of all internet traffic comes from a search engine.",
+      "method": "None. The citation names no report, and the claim mutates between 'experiences' and 'traffic'.",
+      "drift": [
+        "Meaning shifts between 'experiences begin with' and 'traffic comes from'"
+      ],
+      "interest": "n/a",
+      "safe_rephrasing": "Don't cite it; use current referral-traffic data with a named source.",
+      "sources": [
+        {
+          "title": "Daniel Bianchini: 10 stats to justify SEO (example of the attribution)",
+          "url": "https://danielbianchini.co.uk/10-stats-to-justify-seo/",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "americans-check-phones-96-times-a-day",
+      "slug": "americans-check-phones-96-times-a-day",
+      "url": "https://groundedkit.com/claims/americans-check-phones-96-times-a-day/",
+      "api_url": "https://groundedkit.com/api/claims/americans-check-phones-96-times-a-day.json",
+      "claim": "Americans check their phones 96 times a day",
+      "commonly_cited_as": "\"Americans check their phones 96 times a day\" (as current)",
+      "verdict": "outdated",
+      "verdict_definition": "Source found and quoted correctly, but old enough that the market has changed.",
+      "confidence": "high",
+      "rating": {
+        "value": 3,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Asurion",
+        "title": "Americans Check Their Phones 96 Times a Day (press release)",
+        "year": "2019"
+      },
+      "quote": "Asurion-sponsored survey by Market Research Firm Solidea Solutions conducted August 18-20, 2019 of 1,998 U.S. smartphone users",
+      "method": "Self-reported online survey of 1,998 US smartphone users, Aug 2019, sponsored by a phone-insurance company.",
+      "drift": [
+        "Measurement: self-report quoted as measured behavior",
+        "Date: 7 years old"
+      ],
+      "interest": "Asurion sells phone insurance and tech support.",
+      "safe_rephrasing": "In a 2019 Asurion-sponsored survey, US smartphone users reported checking their phones about 96 times a day.",
+      "sources": [
+        {
+          "title": "Asurion press release (2019)",
+          "url": "https://www.asurion.com/press-releases/americans-check-their-phones-96-times-a-day/",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cart-abandonment-rate-70-percent",
+      "slug": "cart-abandonment-rate-70-percent",
+      "url": "https://groundedkit.com/claims/cart-abandonment-rate-70-percent/",
+      "api_url": "https://groundedkit.com/api/claims/cart-abandonment-rate-70-percent.json",
+      "claim": "About 70% of online shopping carts are abandoned",
+      "commonly_cited_as": "\"The average cart abandonment rate is 70%\"",
+      "verdict": "verified",
+      "verdict_definition": "Primary source found; it says the same thing, the scope matches, and it is reasonably current.",
+      "confidence": "high",
+      "rating": {
+        "value": 5,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Baymard Institute",
+        "title": "Cart Abandonment Rate Statistics (meta-average)",
+        "year": "2026 (rolling)"
+      },
+      "quote": "we've calculated the average cart abandonment rate of 70.22 %. This value is an average calculated based on 50 different studies",
+      "method": "Average of 50 published studies of e-commerce cart abandonment; the older 70.19% figure averaged 49 studies.",
+      "drift": [
+        "Precision: an average of mixed studies quoted to two decimals"
+      ],
+      "interest": "Baymard sells checkout-UX research.",
+      "safe_rephrasing": "Baymard's average of 50 studies puts online cart abandonment at about 70%.",
+      "sources": [
+        {
+          "title": "Baymard: Cart abandonment rate statistics",
+          "url": "https://baymard.com/lists/cart-abandonment-rate",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "first-google-result-31-7-percent-ctr",
+      "slug": "first-google-result-31-7-percent-ctr",
+      "url": "https://groundedkit.com/claims/first-google-result-31-7-percent-ctr/",
+      "api_url": "https://groundedkit.com/api/claims/first-google-result-31-7-percent-ctr.json",
+      "claim": "The #1 Google result gets 31.7% of clicks",
+      "commonly_cited_as": "\"The top organic result gets 31.7% of clicks\" (as current)",
+      "verdict": "outdated",
+      "verdict_definition": "Source found and quoted correctly, but old enough that the market has changed.",
+      "confidence": "high",
+      "rating": {
+        "value": 3,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Backlinko and ClickFlow",
+        "title": "Google CTR study (press release 27 Aug 2019)",
+        "year": "2019"
+      },
+      "quote": "The #1 result in Google's search results receives 31.7% of all clicks",
+      "method": "Analysis of about 5 million Google search results (Search Console data) from 2019.",
+      "drift": [
+        "Date: measured before Google's AI Overviews changed click patterns"
+      ],
+      "interest": "Backlinko sells SEO training; ClickFlow sells SEO software.",
+      "safe_rephrasing": "A 2019 Backlinko/ClickFlow study of about 5 million results found the #1 organic result got 31.7% of clicks; newer studies report lower CTRs where AI Overviews appear.",
+      "sources": [
+        {
+          "title": "PR Newswire: Backlinko/ClickFlow CTR study (2019)",
+          "url": "https://www.prnewswire.com/news-releases/the-1-result-in-google-gets-31-7-of-clicks-new-study-by-backlinko-and-clickflow-finds-300907922.html",
+          "primary": true
+        },
+        {
+          "title": "SERPs.io: SEO statistics fact-check",
+          "url": "https://serps.io/blog/seo-zombie-statistics-fact-check",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "influencer-fraud-costs-1-3-billion",
+      "slug": "influencer-fraud-costs-1-3-billion",
+      "url": "https://groundedkit.com/claims/influencer-fraud-costs-1-3-billion/",
+      "api_url": "https://groundedkit.com/api/claims/influencer-fraud-costs-1-3-billion.json",
+      "claim": "Influencer fraud costs brands $1.3 billion a year",
+      "commonly_cited_as": "\"Fake influencers cost brands $1.3 billion a year\" (as measured)",
+      "verdict": "outdated",
+      "verdict_definition": "Source found and quoted correctly, but old enough that the market has changed.",
+      "confidence": "high",
+      "rating": {
+        "value": 3,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "CHEQ with University of Baltimore economist Roberto Cavazos",
+        "title": "The Economic Cost of Bad Actors on the Internet: Fake Influencer Marketing",
+        "year": "2019"
+      },
+      "quote": "fake influencer marketing will cost advertisers $1.3 billion in 2019",
+      "method": "Modeled estimate: an assumed 15% composite fraud rate applied to an estimated $8.5B global influencer spend (Mediakix figure).",
+      "drift": [
+        "Type: a projection from an assumed rate quoted as a measured loss",
+        "Date: 7 years old"
+      ],
+      "interest": "CHEQ sells ad-fraud prevention.",
+      "safe_rephrasing": "A 2019 CHEQ-commissioned model estimated fake-influencer fraud at $1.3B, assuming 15% of $8.5B spend was lost.",
+      "sources": [
+        {
+          "title": "CHEQ report (2019, PDF)",
+          "url": "https://info.cheq.ai/hubfs/Research/THE_ECONOMIC_COST_OF_BAD_ACTORS_Influencers.pdf",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "80-percent-b2b-social-leads-linkedin",
+      "slug": "80-percent-b2b-social-leads-linkedin",
+      "url": "https://groundedkit.com/claims/80-percent-b2b-social-leads-linkedin/",
+      "api_url": "https://groundedkit.com/api/claims/80-percent-b2b-social-leads-linkedin.json",
+      "claim": "80% of B2B leads from social media come from LinkedIn",
+      "commonly_cited_as": "\"80% of B2B social media leads come from LinkedIn\" (as current)",
+      "verdict": "outdated",
+      "verdict_definition": "Source found and quoted correctly, but old enough that the market has changed.",
+      "confidence": "high",
+      "rating": {
+        "value": 3,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Oktopost",
+        "title": "Analysis of 100,000+ posts (2014)",
+        "year": "2014"
+      },
+      "quote": "Oktopost found that more than 80% of B2B leads were generated through LinkedIn.",
+      "method": "Oktopost analyzed 100,000+ posts by its own B2B customers on LinkedIn, Twitter, Facebook and Google+.",
+      "drift": [
+        "Population: one tool's customers quoted as all B2B",
+        "Date: 12 years old (includes Google+)"
+      ],
+      "interest": "Oktopost sells B2B social media software.",
+      "safe_rephrasing": "In 2014, Oktopost's analysis of its customers' posts attributed over 80% of their social B2B leads to LinkedIn.",
+      "sources": [
+        {
+          "title": "Fronetics: LinkedIn generates more B2B leads (2014)",
+          "url": "https://fronetics.com/linkedin-generates-b2b-leads-social-network/",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "only-3-percent-of-market-buying-now",
+      "slug": "only-3-percent-of-market-buying-now",
+      "url": "https://groundedkit.com/claims/only-3-percent-of-market-buying-now/",
+      "api_url": "https://groundedkit.com/api/claims/only-3-percent-of-market-buying-now.json",
+      "claim": "Only 3% of your market is ready to buy right now",
+      "commonly_cited_as": "\"Only 3% of buyers are actively buying\" (the Buyer's Pyramid)",
+      "verdict": "unsourced",
+      "verdict_definition": "No primary data found; the trail ends in a roundup, a disowned quote or a circular citation.",
+      "confidence": "high",
+      "rating": {
+        "value": 1,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Chet Holmes (The Ultimate Sales Machine)",
+        "title": "Show-of-hands polls at live events",
+        "year": "2007 (book)"
+      },
+      "quote": "Chet polled audiences by the thousands during his live events. He asked for a show of hands",
+      "method": "Informal show-of-hands polls of seminar audiences; no dates, sample or data published.",
+      "drift": [
+        "Type: a seminar heuristic quoted as market research"
+      ],
+      "interest": "Chet Holmes International sells sales training.",
+      "safe_rephrasing": "The '3% buying now' figure is a rule of thumb from informal seminar polls, not a measured market statistic.",
+      "sources": [
+        {
+          "title": "Chet Holmes International: The Art of Attracting New Buyers",
+          "url": "https://www.chetholmes.com/attracting-new-buyers/",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "90-percent-information-to-brain-visual",
+      "slug": "90-percent-information-to-brain-visual",
+      "url": "https://groundedkit.com/claims/90-percent-information-to-brain-visual/",
+      "api_url": "https://groundedkit.com/api/claims/90-percent-information-to-brain-visual.json",
+      "claim": "90% of information transmitted to the brain is visual",
+      "commonly_cited_as": "\"90% of information transmitted to the brain is visual\"",
+      "verdict": "unsourced",
+      "verdict_definition": "No primary data found; the trail ends in a roundup, a disowned quote or a circular citation.",
+      "confidence": "high",
+      "rating": {
+        "value": 1,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Eric Jensen, Brain-Based Learning (book)",
+        "title": "No study cited",
+        "year": "1996"
+      },
+      "quote": "the author simply states the 90% figure and doesn't indicate which study or research it came from.",
+      "method": "None.",
+      "drift": [
+        "Attribution: a book assertion quoted as neuroscience"
+      ],
+      "interest": "n/a",
+      "safe_rephrasing": "Don't cite it; no study supports a 90% figure.",
+      "sources": [
+        {
+          "title": "Effective Data Storytelling: Six visual myths",
+          "url": "https://www.effectivedatastorytelling.com/post/six-visual-myths-that-wont-go-away-but-should",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "users-read-20-percent-of-words",
+      "slug": "users-read-20-percent-of-words",
+      "url": "https://groundedkit.com/claims/users-read-20-percent-of-words/",
+      "api_url": "https://groundedkit.com/api/claims/users-read-20-percent-of-words.json",
+      "claim": "Users read only about 20% of the words on a web page",
+      "commonly_cited_as": "\"People only read 20% of the text on a page\"",
+      "verdict": "verified",
+      "verdict_definition": "Primary source found; it says the same thing, the scope matches, and it is reasonably current.",
+      "confidence": "medium",
+      "rating": {
+        "value": 5,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Nielsen Norman Group (Jakob Nielsen)",
+        "title": "How Little Do Users Read?",
+        "year": "2008"
+      },
+      "quote": "On the average Web page, users have time to read at most 28% of the words during an average visit; 20% is more likely.",
+      "method": "Calculation from page-view logs of a small group of experienced users (Weinreich et al., ACM Transactions on the Web); average page 593 words.",
+      "drift": [
+        "Date: 2008 desktop-era data",
+        "Type: an upper-bound estimate from time on page, not eye-tracking of reading"
+      ],
+      "interest": "NN/g sells UX training.",
+      "safe_rephrasing": "NN/g estimated in 2008 that users have time to read at most 28% of a page's words, about 20% in practice.",
+      "sources": [
+        {
+          "title": "NN/g: How Little Do Users Read? (2008)",
+          "url": "https://www.nngroup.com/articles/how-little-do-users-read/",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "super-bowl-ad-cost-8-million",
+      "slug": "super-bowl-ad-cost-8-million",
+      "url": "https://groundedkit.com/claims/super-bowl-ad-cost-8-million/",
+      "api_url": "https://groundedkit.com/api/claims/super-bowl-ad-cost-8-million.json",
+      "claim": "A 30-second Super Bowl ad costs about $8 million",
+      "commonly_cited_as": "\"A Super Bowl spot costs $8 million\" (2026)",
+      "verdict": "verified",
+      "verdict_definition": "Primary source found; it says the same thing, the scope matches, and it is reasonably current.",
+      "confidence": "high",
+      "rating": {
+        "value": 5,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "NBCUniversal (as reported by Sports Business Journal)",
+        "title": "Super Bowl LX ad sales",
+        "year": "2026"
+      },
+      "quote": "the average 30-second linear spot fetching an $8 million price.",
+      "method": "Network-reported average price for Super Bowl LX (Feb 2026); some late spots reportedly sold for more.",
+      "drift": [
+        "Year-specific: the price changes every year"
+      ],
+      "interest": "n/a",
+      "safe_rephrasing": "NBCUniversal's average price for a 30-second Super Bowl LX spot (2026) was about $8 million.",
+      "sources": [
+        {
+          "title": "Sports Business Journal (Jan 2026)",
+          "url": "https://www.sportsbusinessjournal.com/Articles/2026/01/14/why-advertisers-are-moving-beyond-the-8-million-super-bowl-spot-in-the-streaming-era/",
+          "primary": false
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "repeat-customers-spend-67-percent-more",
+      "slug": "repeat-customers-spend-67-percent-more",
+      "url": "https://groundedkit.com/claims/repeat-customers-spend-67-percent-more/",
+      "api_url": "https://groundedkit.com/api/claims/repeat-customers-spend-67-percent-more.json",
+      "claim": "Repeat customers spend 67% more than new customers",
+      "commonly_cited_as": "\"Bain: repeat customers spend 67% more than new ones\"",
+      "verdict": "misquoted",
+      "verdict_definition": "Primary source found, but the way it is quoted changes the subject, metric, population or precision.",
+      "confidence": "high",
+      "rating": {
+        "value": 2,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Bain & Company with Mainspring",
+        "title": "The Value of Online Customer Loyalty and How You Can Capture It",
+        "year": "c. 2000"
+      },
+      "quote": "In apparel, the average repeat customer spent 67 percent more in months 31-36 of his or her shopping relationship than in months zero-to-six.",
+      "method": "Simulation/analysis of online shoppers in a few categories around 2000.",
+      "drift": [
+        "Comparison: the same customer over time became 'repeat vs new customers'",
+        "Scope: online apparel only",
+        "Date: ~26 years old"
+      ],
+      "interest": "Bain sells loyalty consulting.",
+      "safe_rephrasing": "Bain's ~2000 study found online apparel customers spent 67% more in months 31-36 of the relationship than in their first six months.",
+      "sources": [
+        {
+          "title": "Bain & Company (PDF)",
+          "url": "https://media.bain.com/Images/Value_online_customer_loyalty_you_capture.pdf",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "schema_version": "1.0",
+      "id": "influencer-marketing-industry-32-billion-2025",
+      "slug": "influencer-marketing-industry-32-billion-2025",
+      "url": "https://groundedkit.com/claims/influencer-marketing-industry-32-billion-2025/",
+      "api_url": "https://groundedkit.com/api/claims/influencer-marketing-industry-32-billion-2025.json",
+      "claim": "The influencer marketing industry is worth about $32.55 billion (2025)",
+      "commonly_cited_as": "\"Influencer marketing is a $32.55B industry\"",
+      "verdict": "verified",
+      "verdict_definition": "Primary source found; it says the same thing, the scope matches, and it is reasonably current.",
+      "confidence": "medium",
+      "rating": {
+        "value": 5,
+        "best": 5,
+        "worst": 1
+      },
+      "origin": {
+        "publisher": "Influencer Marketing Hub",
+        "title": "Influencer Marketing Statistics / Benchmark Report",
+        "year": "2025"
+      },
+      "quote": "The global influencer marketing industry reached an estimated $32.55 billion in 2025",
+      "method": "Publisher's own estimate; method for the market size is not detailed on the page.",
+      "drift": [
+        "Scope: global estimate often quoted as US",
+        "Type: a vendor estimate quoted as a census"
+      ],
+      "interest": "Publisher is a media and review site for influencer platforms.",
+      "safe_rephrasing": "Influencer Marketing Hub estimates the global influencer marketing industry at $32.55B in 2025.",
+      "sources": [
+        {
+          "title": "Influencer Marketing Hub: statistics",
+          "url": "https://influencermarketinghub.com/influencer-marketing-statistics/",
+          "primary": true
+        }
+      ],
+      "date_reviewed": "2026-10-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}

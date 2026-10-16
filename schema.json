@@ -1,0 +1,145 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://groundedkit.com/api/schema.json",
+  "title": "GroundedKit claim",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "slug",
+    "url",
+    "claim",
+    "verdict",
+    "confidence",
+    "origin",
+    "quote",
+    "safe_rephrasing",
+    "sources",
+    "date_reviewed"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "api_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "claim": {
+      "type": "string"
+    },
+    "commonly_cited_as": {
+      "type": "string"
+    },
+    "verdict": {
+      "enum": [
+        "verified",
+        "outdated",
+        "misquoted",
+        "unsourced"
+      ]
+    },
+    "verdict_definition": {
+      "type": "string"
+    },
+    "confidence": {
+      "enum": [
+        "high",
+        "medium",
+        "low"
+      ]
+    },
+    "rating": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "integer"
+        },
+        "best": {
+          "type": "integer"
+        },
+        "worst": {
+          "type": "integer"
+        }
+      }
+    },
+    "origin": {
+      "type": "object",
+      "required": [
+        "publisher",
+        "title",
+        "year"
+      ],
+      "properties": {
+        "publisher": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "year": {
+          "type": "string"
+        }
+      }
+    },
+    "quote": {
+      "type": "string"
+    },
+    "method": {
+      "type": "string"
+    },
+    "drift": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "interest": {
+      "type": "string"
+    },
+    "safe_rephrasing": {
+      "type": "string"
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "title",
+          "url"
+        ],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "primary": {
+            "type": "boolean"
+          }
+        }
+      }
+    },
+    "date_reviewed": {
+      "type": "string"
+    },
+    "license": {
+      "type": "string"
+    },
+    "license_url": {
+      "type": "string"
+    }
+  }
+}
